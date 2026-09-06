@@ -7,19 +7,18 @@ PSFB DC-DC converter simulator in Python with nonlinear magnetic component model
 
 A Python implementation of a PSFB (Phase Shift Full Bridge)
 
-DC-DC converter simulator.
+DC-DC converter simulator. 
+
+# Background & Purpose
+This tool was originally developed 13 years ago as a VBA-based design script and has now been fully migrated to Python. Beyond numerical calculation, it is designed to serve as an interactive tutorial for engineers and students learning about PSFB DC-DC converters, switch timing, and nonlinear magnetic component modeling through
+
+L-I characteristic tables. 
+
+
 
  
 
-This tool was migrated from a VBA-based design tool and
-
-supports nonlinear magnetic component models through
-
-L-I characteristic tables.
-
- 
-
-Features
+# Features
  
 
 - PSFB steady-state waveform calculation
