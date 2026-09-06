@@ -12,7 +12,7 @@ DC-DC converter simulator.
 # Background & Purpose
 This tool was originally developed 13 years ago as a VBA-based design script and has now been fully migrated to Python. Beyond numerical calculation, it is designed to serve as an interactive tutorial for engineers and students learning about PSFB DC-DC converters, switch timing, and nonlinear magnetic component modeling through L-I characteristic tables. 
 
-![L-I](https://github.com/issy-kazu3/psfb-dcdc-simulator/blob/main/images/L-.png)
+![L-I](https://github.com/issy-kazu3/psfb-dcdc-simulator/blob/main/images/L-I.png)
 
  
 
