@@ -1,7 +1,7 @@
 # psfb-dcdc-simulator
 PSFB DC-DC converter simulator in Python with nonlinear magnetic component models. Migrated from a legacy VBA tool.
 
-https://github.com/issy-kazu3/psfb-dcdc-simulator/blob/main/images/github.png
+![Outlook](https://github.com/issy-kazu3/psfb-dcdc-simulator/blob/main/images/github.png)
 
 # PSFB DC-DC Simulator
 
