@@ -20,12 +20,9 @@ This tool was originally developed 13 years ago as a VBA-based design script and
  
 
 - PSFB steady-state waveform calculation
-- Transformer magnetizing current calculation
-
-- Nonlinear L-I magnetic models
-
-- CSV-based magnetic component data
-
-- Switch timing visualization
-
-- GUI application using Python
+- **Normalized $L$-$I$ characteristics (1-turn self-inductance):** Simulates ripple waveforms based on core $L$-$I$ data under custom primary turns, voltage, current, and switching parameters.
+- **Nonlinear magnetic modeling:** Visualizes ripple current distortion caused by core nonlinearity and saturation.
+- **Magnetizing current observation:** Calculates and displays transformer magnetizing current.
+- **Switch timing visualization:** Clear graphical output for understanding phase-shift timing.
+- **CSV-based component data:** Easy import of custom magnetic core characteristics.
+- **GUI interface:** User-friendly GUI implementation in Python.
